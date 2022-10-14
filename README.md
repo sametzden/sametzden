@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sametzden
 - 👀 I’m interested in mobıle development
 - 🌱 I’m currently learning  python, c# 
-- 💞️ I’m looking to collaborate on mobıle develpment
+- 💞️ I’m looking to collaborate on mobıle development
 
 <!---
 sametzden/sametzden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
